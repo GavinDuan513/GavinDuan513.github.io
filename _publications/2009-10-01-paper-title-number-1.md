@@ -1,11 +1,11 @@
 ---
 title: "Test Case-Informed Knowledge Tracing for Open-ended Coding Tasks"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about a new defined KT task: Test Case Outcome Prediction'
 date: 2025-03-08
-venue: 'Journal 1'
+venue: 'LAK 25'
 slidesurl: ''
 paperurl: 'https://arxiv.org/pdf/2410.10829'
 citation: '@misc{duan2024testcaseinformedknowledgetracing,
