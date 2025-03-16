@@ -1,5 +1,5 @@
 ---
-title: "Multilingualism, Transnationality, and K-pop in the Online# StopAsianHate Movement"
+title: 'Multilingualism, Transnationality, and K-pop in the Online# StopAsianHate Movement'
 collection: publications
 category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
