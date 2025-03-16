@@ -24,11 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zhangqi(Gavin) Duan"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student at UMass Amherst"
   location         : "Amherst, MA"
-  employer         : "UMass Amherst"
-  uri              : # URL
   email            : "zduan@umass.edu" 
 
   # Academic websites
