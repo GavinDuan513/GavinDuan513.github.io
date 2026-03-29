@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2024-02-17
-venue: 'EMNLP 2024 Findings'
+venue: 'EMNLP Findings'
 paperurl: 'https://arxiv.org/pdf/2312.15561'
 citation: '@misc{yao2024readmebridgingmedicaljargon,
       title={README: Bridging Medical Jargon and Lay Understanding for Patient Education through Data-Centric NLP}, 
