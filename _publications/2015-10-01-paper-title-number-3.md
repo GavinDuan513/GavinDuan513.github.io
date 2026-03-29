@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2025-03-04
-venue: 'WebSci 25'
+venue: 'WebSci'
 paperurl: 'https://arxiv.org/pdf/2503.02707'
 citation: "@misc{masis2025multilingualismtransnationalitykpoponline,
       title={Multilingualism, Transnationality, and K-pop in the Online #StopAsianHate Movement}, 
