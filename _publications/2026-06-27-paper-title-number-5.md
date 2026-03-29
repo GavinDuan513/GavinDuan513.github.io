@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2026-06-27-paper-title-number-5
 excerpt: 'This paper is the first work to leverage LLM for Knowledge Components (KC) level correctness labeling on coding problem.'
 date: 2026-06-27
-venue: 'AIED 2026'
+venue: 'AIED'
 paperurl: 'https://arxiv.org/abs/2602.17542'
 citation: '@misc{duan2026usingllmsknowledgecomponentlevel,
       title={Using LLMs for Knowledge Component-level Correctness Labeling in Open-ended Coding Problems}, 
