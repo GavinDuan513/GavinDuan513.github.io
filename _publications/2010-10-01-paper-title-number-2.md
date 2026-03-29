@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2023-06-06
-venue: 'ICLR 2023 Workshop'
+venue: 'ICLR Workshop'
 paperurl: 'https://arxiv.org/pdf/2306.03985'
 citation: '@misc{luo2023agentperformingautonomousstock,
       title={Agent Performing Autonomous Stock Trading under Good and Bad Situations}, 
