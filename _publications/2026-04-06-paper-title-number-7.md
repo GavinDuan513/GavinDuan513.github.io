@@ -1,20 +1,20 @@
 ---
-title: "Automated Knowledge Component Generation for Interpretable Knowledge Tracing in Coding Problems"
+title: "KASER: Knowledge-Aligned Student Error Simulator for Open-Ended Coding Tasks"
 collection: publications
 category: conferences
 permalink: /publication/2026-04-06-paper-title-number-7
-excerpt: 'We introduce KCGen-KT, a controllable framework for generating Knowledge Components (KCs) at varying granularity levels based on instructional needs. We also propose a soft token conversion mechanism that allows gradient flow across models (knowledge estimator and code generator), enabling more interpretable training.'
+excerpt: 'When applying LLMs for student code simulation, we find that both prompt-based and SFT approaches tend to generate overly correct solutions, rather than reflecting the student’s actual knowledge and likely mistakes. To enable more realistic student simulation, we introduce KASER, which is trained with GRPO and a carefully designed reward that balances both diversity and error coverage.'
 date: 2026-07-02
-venue: 'ACL Findings'
-paperurl: 'https://arxiv.org/abs/2502.18632'
-citation: '@misc{duan2025automatedknowledgecomponentgeneration,
-      title={Automated Knowledge Component Generation for Interpretable Knowledge Tracing in Coding Problems}, 
-      author={Zhangqi Duan and Nigel Fernandez and Arun Balajiee Lekshmi Narayanan and Mohammad Hassany and Rafaella Sampaio de Alencar and Peter Brusilovsky and Bita Akram and Andrew Lan},
-      year={2025},
-      eprint={2502.18632},
+venue: 'ACL'
+paperurl: 'https://arxiv.org/abs/2601.06633'
+citation: '@misc{duan2026kaserknowledgealignedstudenterror,
+      title={KASER: Knowledge-Aligned Student Error Simulator for Open-Ended Coding Tasks}, 
+      author={Zhangqi Duan and Nigel Fernandez and Andrew Lan},
+      year={2026},
+      eprint={2601.06633},
       archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2502.18632}, 
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2601.06633}, 
 }'
 ---
 
