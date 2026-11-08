@@ -3,7 +3,7 @@ title: "Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dial
 collection: publications
 category: conferences
 permalink: /publication/2026-10-24-paper-title-number-8
-excerpt: 'This paper introduces a history-aware framework for simulating student behavior in AI tutoring dialogues by using past learning interactions to capture students' knowledge, misconceptions, and conversational behaviors. By combining personalized student profiles with reinforcement learning, the approach generates more realistic student responses and significantly outperforms existing simulation methods.'
+excerpt: 'This paper introduces a history-aware framework for simulating student behavior in AI tutoring dialogues by using past learning interactions to capture students'' knowledge, misconceptions, and conversational behaviors. By combining personalized student profiles with reinforcement learning, the approach generates more realistic student responses and significantly outperforms existing simulation methods.'
 date: 2026-07-02
 venue: 'EMNLP'
 paperurl: 'https://arxiv.org/abs/2605.30051'
